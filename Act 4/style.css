@@ -1,0 +1,63 @@
+body{
+    padding: 25px;
+  }
+
+  body {
+    margin: 20px;
+    font-family: Arial;
+  }
+
+  h1 {
+    font-family: Open-Sans;
+  }
+
+  img{
+    position: absolute;
+    margin: 8%;
+    border: 1px solid #ccc;
+    top: 0;
+    right: 0;
+    width: 100px;
+  }
+
+  div + h1 {
+    padding: 10px;
+  }
+
+  p {
+    width: 100%;
+    text-align: justify;
+  }
+  body{
+    padding-top: 50px;
+    padding-left: 25%;
+     padding-right: 25%;
+}   
+*{
+    color: rgb(66, 65, 65);
+}
+h2{
+    margin-top: 8%;
+}
+img{
+    aspect-ratio: 1.5/1;
+    margin-top: 20px;        
+    max-width: 100%;        
+    height: auto; 
+    top: 3%;
+    position: absolute;
+    left: 58%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;  
+    align-items: center;      
+    justify-content: center; 
+    height: 100vh;        
+  }
+  
+  h1 {
+    margin: 0;          
+  }
+  
