@@ -1,0 +1,10 @@
+body {
+    margin: 20px;
+  }
+            h1 + p{
+      color: red;
+  }
+  
+  p ~h6 {
+      color: blue;
+  }
